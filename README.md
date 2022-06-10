@@ -1,1 +1,1 @@
-# ML-Model-is-Preidicting-House-Price-
+# ML-Model-and-House-Price
